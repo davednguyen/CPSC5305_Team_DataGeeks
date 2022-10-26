@@ -1,1 +1,7 @@
+zero values - what we do with
 
+create dummy col for categorical data for use of algo
+
+ask about training data percentage and how it is broken down
+
+what algo we should use
