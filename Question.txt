@@ -1,0 +1,7 @@
+Discussion to have with professor:
+
+10/25/22 meeting
+zero values - what we do with zero values
+create dummy cols for categorical data for use of algo
+how to determine training data percentage and how it is broken down
+what algo we should use? Professor suggested as many as you can. We have three algorithms so far
